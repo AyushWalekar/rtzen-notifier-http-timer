@@ -1,0 +1,16 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Please sign in to access your notifications."
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Sign In",
+      "url": "https://app.dev.rtzen.com/login"
+    }
+  ]
+}
